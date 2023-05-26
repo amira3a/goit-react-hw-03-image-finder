@@ -1,0 +1,19 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.buttonLoadMore {
+    padding: 8px 16px;
+    background-color: #b62c5a;
+    color: #131212;
+    border-radius: 10%;
+    outline: none;
+    cursor: pointer;
+    transition: background-color 0.3sease;
+}
+
+.buttonLoadMore:hover {
+    background-color: #e0e0e0;
+}
